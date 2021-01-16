@@ -1,4 +1,4 @@
-* broken don't use jan 20121
+* broken don't use jan 2021
 * googlemaps don't use auto update
 * removed backlinks googleMps.lib.php
 * poi for business hidden
