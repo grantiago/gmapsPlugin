@@ -1,5 +1,6 @@
+* broken don't use jan 20121
 * googlemaps don't use auto update
-* removed backlinks googleMaps.lib.php
+* removed backlinks googleMps.lib.php
 * poi for business hidden
 * backlink removed 440 googleMaps.lib.php
 * backlink removed line 432
